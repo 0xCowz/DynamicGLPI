@@ -8,4 +8,4 @@ Une fois importé, il suffit de passer son curseur en haut à droite de la fenê
 
 <img width="374" height="485" alt="image" src="https://github.com/user-attachments/assets/36154827-e5c0-4404-9bd1-faef66c69fd3" />
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/vrfaj6?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+https://streamable.com/vrfaj6
