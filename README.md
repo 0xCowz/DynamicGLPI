@@ -7,3 +7,5 @@ et un système de recherche bien plus optimisé et rapide que le GLPI d'origine.
 Une fois importé, il suffit de passer son curseur en haut à droite de la fenêtre de tickets GLPI (https://xxxx.xxxxx/glpi/front/ticket.php) pour afficher la GUI de l'extension.
 
 <img width="374" height="485" alt="image" src="https://github.com/user-attachments/assets/36154827-e5c0-4404-9bd1-faef66c69fd3" />
+
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/vrfaj6?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
