@@ -1,5 +1,3 @@
-Une extension web rendant GLPI plus simple d'utilisation.
-
 Une extension basé sur Chrome & Edge, configurable pour voir les tickets de facon dynamique, d'y accéder, et d'y répondre manuellement par mail si besoin personnel, également accès à de simple statistiques,
 et un système de recherche bien plus optimisé et rapide que le GLPI d'origine.
 
